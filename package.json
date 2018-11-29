@@ -1,0 +1,12 @@
+{
+    "name": "shadow-root-element-from-point-polyfill",
+    "version": "1.0.0",
+    "description": "Attempts to provide missing ShadowRoot.elementFromPoint implementation in IE11.",
+    "homepage": "https://github.com/jsturgill/shadow-root-element-from-point-polyfill#readme",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jeremiah Sturgill",
+    "license": "ISC"
+}
