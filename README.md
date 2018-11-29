@@ -1,4 +1,4 @@
-# ShadowRoot.getSelection Polyfill
+# ShadowRoot.elementFromPoint Polyfill
 
 Provides missing `ShadowRoot.elementFromPoint` implementation in [ShadyDom](https://github.com/webcomponents/shadydom/issues/141).
 
